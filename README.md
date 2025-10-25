@@ -165,7 +165,4 @@ User objects follow this structure:
 - Clean, readable code with comments
 - Responsive design patterns
 
-## License
-
-This project is open source and available under the MIT License.
 
